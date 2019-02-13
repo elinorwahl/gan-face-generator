@@ -2,7 +2,7 @@
 
 This is my implementation of a project to construct an adversarial neural network, and use it to generate photorealistic human
 faces based on celebrity images. The original project notebook and requirements are part of Udacity's current Deep Learning 
-course, which can be found [here](https://github.com/udacity/deep-learning) in the [face-generation](https://github.com/udacity/deep-learning/tree/master/face_generation) 
+course, which can be found [here](https://github.com/udacity/deep-learning) in the [face_generation](https://github.com/udacity/deep-learning/tree/master/face_generation) 
 folder.
 
 Generative adversarial networks are a form of artificial intelligence that pits one neural network against another for a form
