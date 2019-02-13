@@ -5,7 +5,7 @@ faces based on celebrity images. The original project notebook and requirements 
 course, which can be found [here](https://github.com/udacity/deep-learning) in the [face_generation](https://github.com/udacity/deep-learning/tree/master/face_generation) 
 folder.
 
-Generative adversarial networks are a form of artificial intelligence that pits one neural network against another for a form
+Generative adversarial networks are a kind of artificial intelligence that pits one neural network against another, in a form
 of unsupervised machine learning. They are made of two deep neural networks, a generator and a discriminator. The generator
 creates data, and the discriminator compares the generator's output to real-world data, like handwritten numbers, photographic 
 images or music, and labels the generator's outputs real or fake in comparison. The discriminator's verdicts are then fed 
